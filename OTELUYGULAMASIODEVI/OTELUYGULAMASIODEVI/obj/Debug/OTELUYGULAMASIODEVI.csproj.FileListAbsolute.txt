@@ -30,3 +30,9 @@ C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\obj\Debug\OT
 C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\obj\Debug\OTELUYGULAMASIODEVI.GelirGider.resources
 C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\obj\Debug\OTELUYGULAMASIODEVI.Stoklar.resources
 C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\obj\Debug\OTELUYGULAMASIODEVI.SifreGuncelle.resources
+C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\obj\Debug\Interop.WMPLib.dll
+C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\obj\Debug\OTELUYGULAMASIODEVI.csproj.ResolveComReference.cache
+C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\obj\Debug\OTELUYGULAMASIODEVI.radyo.resources
+C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\bin\Debug\Interop.WMPLib.dll
+C:\Users\yusuf\source\repos\OTELUYGULAMASIODEVI\OTELUYGULAMASIODEVI\bin\Debug\AxInterop.WMPLib.dll

@@ -73,5 +73,13 @@ namespace OTELUYGULAMASIODEVI
             sfrgnclle.ShowDialog();
             this.Close();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            radyo rdy = new radyo();
+            this.Hide();
+            rdy.ShowDialog();
+            this.Close();
+        }
     }
 }
